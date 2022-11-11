@@ -1,0 +1,15 @@
+.dropdown{
+     display: flex;
+     justify-content: flex-end;
+    }
+    .allignment{
+        background-color: rgb(194, 250, 231);
+        padding: 1rem;
+        margin: 1rem;
+    }
+select{
+    border: 3px solid rgb(19, 2, 66);
+    border-radius: 5px;
+    width: 8rem;
+    height: 3rem;
+}
